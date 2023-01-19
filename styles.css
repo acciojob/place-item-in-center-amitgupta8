@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-nav ul {
-  display: flex;
-  justify-content: space-between;
+.holder{
+	display: flex;
+	justify-content: center;
 }
