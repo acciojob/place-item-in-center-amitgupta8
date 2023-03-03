@@ -1,6 +1,17 @@
 
 /* Your CSS Code here. */
-.holder{
-	display: flex;
-	justify-content: center;
-}
+  .holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* sets the height of the holder to fill the viewport */
+  }
+
+  .item-1 {
+    font-size: 36px;
+  }
+  
+  .item-2 {
+    font-size: 24px;
+    color: blue;
+  }
